@@ -1,4 +1,4 @@
-これは[この記事](https://qiita.com/drafts/174b0de5467ddf5362c5/edit)のアプリです．
+これは[この記事](https://qiita.com/ogaog/items/174b0de5467ddf5362c5)のアプリです．
 
 ### ファイル構成
 ```
